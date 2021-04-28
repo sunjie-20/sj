@@ -36,7 +36,9 @@ table
 | ?  | ? |
 
 **Everyone is an lonely island.**
+
 *I have a dream.*
+
 ~~I am on fire!~~
 
 ----
