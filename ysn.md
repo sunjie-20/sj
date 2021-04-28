@@ -1,6 +1,6 @@
 ## Ysn
 #### Cyberlia
-[neocities](https://fauux.neocities.org/)
+[swordart](https://www.swordart-online.net/)
 
 [Skip](README.md)
 
