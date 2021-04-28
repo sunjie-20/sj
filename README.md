@@ -1,3 +1,3 @@
 # sj
 
-[Skip](lain.md)
+[Skip](ysn.md)
