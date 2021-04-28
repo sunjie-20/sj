@@ -24,3 +24,9 @@ ordered list
 1. Asuna
 1. Asuna
 1. Asuna
+
+table
+|  swordart   | Asuna  |
+|  ----  | ----  |
+| hello  | world |
+| ?  | ? |
